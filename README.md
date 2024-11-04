@@ -3,11 +3,9 @@ Hi, My name is Jill!
 
 🎀🐰🌷🌸
 
-I am looking for a position as a Full Stack Developer in Canada.
-
 I've been working as a Software Engineer since 2020. Focusing on JavaScript solutions and expertise in React, Nextjs, and Nodejs.
 
-* 🌍  I'm based in Vancouver/Toronto.
+* 🌍  I'm based in Toronto.
 * 🖥️  See my portfolio at [My Portfolio](http://official-site-teal.vercel.app/).
 * 📂  You can contact me at [jillchang05@gmail.com](mailto:jillchang05@gmail.com).
 * 🍁  I'm on my way to explore the great Canada area.
